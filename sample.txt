@@ -1,0 +1,2 @@
+FaizGPT is a portfolio project built by Faiz Masood.
+It uses FastAPI, OpenAI integration, chat memory, and document question answering.
