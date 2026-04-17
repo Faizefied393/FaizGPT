@@ -1,0 +1,7 @@
+.venv/
+.env
+data/uploads/
+data/chats/
+data/vectors/
+__pycache__/
+*.pyc
